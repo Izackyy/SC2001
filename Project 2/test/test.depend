@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727983709 source:c:\users\isaac\onedrive\documents\work\sc mods\sc2001\lab\sc2001\project 2\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
